@@ -1,0 +1,33 @@
+
+.signin-box{
+font-size: 13px;
+line-height: 19px;
+color: #111;
+font-family: "Amazon Ember",Arial,sans-serif;
+box-sizing: border-box;
+border-radius: 4px;
+position: relative;
+padding: 14px 18px;
+}
+form{
+    width: 350px;
+    border: 1px #ddd solid;
+    border-radius: 4px;
+    padding: 20px;
+}
+.text-lead{
+    font-size: 25px;
+    line-height: 1.2;
+    font-weight: 400;
+}
+.font-sm{
+    font-size: 13px !important;
+    line-height: 19px;
+}
+label{
+    color: #111;
+    font-weight: 700;
+}
+
+
+
